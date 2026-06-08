@@ -2,7 +2,7 @@
   "name": "JEE 2027 Master Dashboard",
   "short_name": "JEE 2027",
   "description": "JEE preparation tracker, progress dashboard and daily goals",
-  "start_url": "/",
+  "start_url": "/Dashboard/"
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#07070f",
