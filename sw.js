@@ -1,5 +1,4 @@
 const CACHE = 'jee-dashboard-v3';
-
 const FILES = [
   './',
   './index.html',
